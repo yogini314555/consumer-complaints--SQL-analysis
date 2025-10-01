@@ -148,6 +148,7 @@ boa-consumer-complaints/
 │── README.md                              # Project documentation  
 
 📸 Query Result Preview
+https://github.com/yogini314555/consumer-complaints--SQL-analysis/blob/main/CONSUMER%20COMPLAINTS.pptx
 
 <img width="1386" height="768" alt="image" src="https://github.com/user-attachments/assets/fdf94577-0a99-4a9a-a73b-20785b65e34e" />
 <img width="1381" height="761" alt="image" src="https://github.com/user-attachments/assets/ca077a00-e74a-4d9c-98eb-3e69850302df" />
